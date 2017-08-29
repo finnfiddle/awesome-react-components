@@ -234,6 +234,7 @@
 
 *Display data in charts / graphs / diagrams*
 
+ - [number-picture](https://github.com/finnfiddle/number-picture) - Low-level, animated React + D3 building blocks.
  - [react-chartist](https://github.com/fraserxu/react-chartist) - React component for Chartist.js.
  - [d3-react-squared](https://github.com/bgrsquared/d3-react-squared) - Lightweight event system for (d3) charts and other components for ReactJS.
  - [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components for React.
